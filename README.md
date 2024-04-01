@@ -1,3 +1,7 @@
+# ![Pikselin https://pikselin.net](https://avatars.githubusercontent.com/u/106634444?s=48&v=4)  Recipe plugin
+
+Small modification to make thism odule compatible with PHP 8.2 method inheritance.
+
 ## Silverstripe Vendor Plugin
 
 [![CI](https://github.com/silverstripe/vendor-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/silverstripe/vendor-plugin/actions/workflows/ci.yml)
